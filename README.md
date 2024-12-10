@@ -1,6 +1,6 @@
 # DataForge
 
-**DataForge** is an end-to-end data analytics pipeline designed as a personal challenge by **Konstantin Milonas** during December 2024. It demonstrates how to turn raw, unrefined data into actionable insights. By integrating a variety of open-source tools, DataForge shows how to collect, transform, store, analyze, and visualize data within a cohesive, production-ready environment, all developed as a self-assigned learning project.
+DataForge is an end-to-end data analytics pipeline that I am undertaking as a personal learning project during December 2024 and January 2025. The goal of this project is to illustrate how actionable insights can be derived from raw, unprocessed data. By integrating various open-source tools, DataForge demonstrates the entire workflow—from data collection, transformation, and storage through to analysis and visualization—within a cohesive, production-ready environment. Please note that DataForge is currently under development, and all of the following information serves only as an initial overview, not yet fully implemented.
 
 ## Table of Contents
 
